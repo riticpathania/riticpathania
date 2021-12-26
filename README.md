@@ -1,6 +1,6 @@
 **About Me**
 - 👋 Hi, I’m Ritik Pathania
-- 👀 I’m interested in Python, Web-Dev, C++
+- 👀 I’m interested in Python, Web-Dev, C++, Kotlin
 - 🌱 I’m currently learning Three.js and Data Structures and Algorithms
 - ⚒️ I’m currently working on https://raregreen.ucraft.site
 - 💞️ I’m looking to collaborate on Opensource Projects
