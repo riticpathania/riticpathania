@@ -21,8 +21,8 @@
 
 **My Github Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=riticpathania&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riticpathania&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ritikpathania&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikpathania&layout=compact"/>
 
 **Connect with me**
 <p align="left">
