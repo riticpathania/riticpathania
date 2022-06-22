@@ -9,10 +9,10 @@
 **Languages and Tools**
 <p>
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/50/000000/kotlin.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://img.icons8.com/color/000000/html-5.png"/></a> 
+    <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://html.com/" target="_blank"><img src="https://img.icons8.com/color/000000/html-5.png"/></a> 
     <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://img.icons8.com/color/000000/css3.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://img.icons8.com/color/000000/javascript--v1.png"/></a>
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/000000/javascript--v1.png"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
     <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/fluency/000000/node-js.png"/></a> 
     <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/000000/mysql-logo.png"/></a>
